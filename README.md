@@ -1,1 +1,4 @@
-# sun-chase-website
+# appsmayfly-website
+
+Current apps:
+- Sun Chase
